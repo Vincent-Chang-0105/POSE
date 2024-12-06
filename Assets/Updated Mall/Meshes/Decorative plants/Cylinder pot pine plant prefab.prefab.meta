@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b016c3370fc01a429cc7d894a0c85d7
+labels:
+- Props
+- Environment
+- Plant
+- Decoration
+- Concrete
+- Interior
+- Nature
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13283
+  packageName: Decorative plants pack
+  packageVersion: 1.0
+  assetPath: Assets/Meshes/Decorative plants/Cylinder pot pine plant prefab.prefab
+  uploadId: 223

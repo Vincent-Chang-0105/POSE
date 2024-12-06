@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5d7499709d8838b4da6e44d7cf4e26e5
+labels:
+- Props
+- Environment
+- Plant
+- Decoration
+- Concrete
+- Interior
+- Nature
+- Palm
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13283
+  packageName: Decorative plants pack
+  packageVersion: 1.0
+  assetPath: Assets/Meshes/Decorative plants/Square pot palm plant prefab.prefab
+  uploadId: 223

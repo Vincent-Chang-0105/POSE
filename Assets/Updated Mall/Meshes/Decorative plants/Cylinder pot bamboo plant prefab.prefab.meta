@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: aa2a471a681c14d49b68438ce6deb8c6
+labels:
+- Props
+- Environment
+- Plant
+- Decoration
+- Concrete
+- Interior
+- Nature
+- Bamboo
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13283
+  packageName: Decorative plants pack
+  packageVersion: 1.0
+  assetPath: Assets/Meshes/Decorative plants/Cylinder pot bamboo plant prefab.prefab
+  uploadId: 223
